@@ -26,14 +26,13 @@ Here are the key projects that demonstrate my skills:
 * **Description:** Executed an in-depth analysis of a **$435.76 million loan portfolio** to identify key risk drivers and quantify losses.
 * **Skills Used:** Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Credit Risk Analysis.
 * **Result:** Quantified that "Bad Loans" resulted in a **$28.25 million net loss**, providing a data-driven strategy for future underwriting.
-* **[Link to Repository]** 👈 *(We will add this link in the next step)*
+* **[View Project Repository](https://github.com/PrashantJaitly/Bank-Loan-Portfolio-Risk-Analysis)**
 
 #### 2. Predictive Modeling for Term Deposit Subscriptions
 * **Description:** Developed and compared ML models (Logistic Regression, Decision Tree) to forecast which clients would subscribe to a term deposit.
 * **Skills Used:** Python (Scikit-learn, Pandas), Machine Learning, Predictive Modeling, EDA.
 * **Result:** Achieved **90.4% model accuracy** and identified 'call duration' as the strongest predictor to optimize future marketing campaigns.
-* **[Link to Repository]** 👈 *(We will add this link in the next step)*
-
+* **[View Project Repository](https://github.com/PrashantJaitly/Term-Deposit-Subscription-Prediction)**
 ---
 
 ### 📫 How to Reach Me
